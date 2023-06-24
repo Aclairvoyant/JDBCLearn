@@ -16,8 +16,8 @@ import java.util.Map;
 public class PSCURDPart extends BaseDao{
     /**
      * 插入一条用户数据!
-     * 账号: test
-     * 密码: test
+     * 账号: test1
+     * 密码: test1
      * 昵称: 测试
      */
     @Test
